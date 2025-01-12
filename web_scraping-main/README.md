@@ -12,7 +12,7 @@ Pada **capstone** kali ini, Anda dapat memilih salah satu dari kasus berikut unt
 
    - Dari halaman tersebut carilah `tanggal`, dan `harga harian`
    - Bualah plot pergerakan kurs USD
-   ###TASK 1 sudah beres ####
+# TASK 1 sudah beres
    
 
 2. [Case IMDB Box Office Mojo](https://www.boxofficemojo.com/year/world/)
