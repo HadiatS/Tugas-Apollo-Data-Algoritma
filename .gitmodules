@@ -1,0 +1,6 @@
+[submodule "Tugas-Apollo-Data-Algoritma"]
+	path = Tugas-Apollo-Data-Algoritma
+	url = https://github.com/HadiatS/Tugas-Apollo-Data-Algoritma.git
+[submodule "flaskUI_capstone"]
+	path = flaskUI_capstone
+	url = https://github.com/HadiatS/Tugas-Apollo-Data-Algoritma.git
