@@ -1,6 +1,6 @@
 # Google Play Store Analytics
 
-![Full Capstone](full_capstone.png)
+![Full Capstone](cat_order1.png)
 
 ## Introduction
 Projek ini dikembangkan sebagai salah satu capstone project dari Algoritma Academy Data Analytics Specialization. Deliverables yang diharapkan adalah Anda dapat membangun sebuah aplikasi web sederhana (dashboard) menggunakan framework Flask. Capstone ini akan fokus pada tampilan user interface Flask. 
